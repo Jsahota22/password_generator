@@ -1,0 +1,14 @@
+{
+  "name": "javascript_project",
+  "version": "1.0.0",
+  "description": "Password Generator",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w sass/ -o dist/css/ --recursive"
+  },
+  "author": "Jaspreet Sahota",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
